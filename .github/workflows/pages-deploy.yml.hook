@@ -2,7 +2,7 @@ name: 'Automatic build'
 on:
   push:
     branches:
-      - main
+      - master
     paths-ignore:
       - .gitignore
       - README.md
@@ -11,7 +11,7 @@ on:
 jobs:
   continuous-delivery:
 
-    runs-on: ubuntu-latest 
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout

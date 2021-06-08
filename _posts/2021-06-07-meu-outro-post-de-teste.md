@@ -6,4 +6,10 @@ categories: [Teste]
 tags: [novo]
 ---
 
+---
+image:
+  src: /assets/img/avatar.jpg
+  alt: Texto Alternativo
+---
+
 Esse é apenas uma  outra postagem de teste.

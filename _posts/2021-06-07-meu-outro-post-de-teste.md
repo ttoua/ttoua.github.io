@@ -22,7 +22,7 @@ tags: [novo]
 ### Tabela de Links
 
 | Toua | Número | Link Direto                |
-|:-----|:-------|---------------------------:|
+|:-----|:-------|:---------------------------|
 | Link | 1      | [Link 01](https://toua.cf) |
 | Link | 2      | [Link 02](https://toua.cf) |
 | Link | 3      | [Link 03](https://toua.cf) |

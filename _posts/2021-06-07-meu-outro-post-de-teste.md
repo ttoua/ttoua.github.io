@@ -9,7 +9,7 @@ tags: [novo]
 ---
 image:
   src: /assets/img/avatar.jpg
-  alt: Texto Alternativo
+  alt: Texto Alternativo de imagem
 ---
 
 Esse é apenas uma  outra postagem de teste.

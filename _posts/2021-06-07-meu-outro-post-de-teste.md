@@ -32,3 +32,5 @@ tags: [novo]
 <a class="tag" href="https://toua.cf">Link<span class="text-muted">3</span></a>
 <a class="tag" href="https://toua.cf">Link<span class="text-muted">4</span></a>
 <a class="tag" href="https://toua.cf">Link<span class="text-muted">5</span></a>
+
+[Link 01 class="tag"](https://toua.cf)

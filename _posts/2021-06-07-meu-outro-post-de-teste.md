@@ -10,11 +10,19 @@ tags: [novo]
 
 ---
 
-Esse é apenas uma  outra postagem de teste.
+### Lista de links ordenada
 
-- <https://toua.cf>
-- <https://toua.cf>
-- <https://toua.cf>
-- <https://toua.cf>
-- <https://toua.cf>
-- <https://toua.cf>
+1. <https://toua.cf>
+2. <https://toua.cf>
+3. <https://toua.cf>
+4. <https://toua.cf>
+5. <https://toua.cf>
+6. <https://toua.cf>
+
+### Tabela de Links
+
+| Toua           | Número          | Link Direto       |
+|:---------------|:----------------|------------------:|
+| Link           | 1               | <https://toua.cf> |
+| Link           | 2               | <https://toua.cf> |
+| Link           | 3               | <https://toua.cf> |

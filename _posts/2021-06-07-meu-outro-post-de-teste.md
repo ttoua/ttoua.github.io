@@ -6,8 +6,8 @@ categories: [Teste]
 tags: [novo]
 
 image:
-  src: "/assets/img/avatar.jpg"
-  alt: Texto Alternativo de imagem
+  src: /assets/img/avatar.jpg
+  alt: texto alternativo de imagem
 ---
 
 

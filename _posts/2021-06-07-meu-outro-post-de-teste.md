@@ -6,7 +6,7 @@ categories: [Teste]
 tags: [novo]
 
 image:
-  src: /assets/img/avatar.jpg
+  src: ![Desktop View](/assets/img/avatar.jpg){: .left}
   alt: texto alternativo de imagem
 ---
 

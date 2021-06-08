@@ -26,3 +26,5 @@ tags: [novo]
 | Link | 1      | [Link 01](https://toua.cf) |
 | Link | 2      | [Link 02](https://toua.cf) |
 | Link | 3      | [Link 03](https://toua.cf) |
+
+<a class="tag" href="/tags/writing/">Testando<span class="text-muted">3</span></a>

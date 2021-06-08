@@ -14,4 +14,4 @@ image:
 
 Esse é apenas uma  outra postagem de teste.
 
-!`Toua`<https://toua.cf>
+`Toua`<https://toua.cf>

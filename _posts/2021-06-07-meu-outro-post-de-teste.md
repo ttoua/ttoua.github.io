@@ -8,7 +8,7 @@ tags: [novo]
 
 ---
 image:
-  src: /assets/img/avatar.jpg
+  src: '/assets/img/avatar.jpg'
   alt: texto alternativo de imagem
 ---
 

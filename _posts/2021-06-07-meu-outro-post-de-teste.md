@@ -109,7 +109,8 @@ tags: [novo]
 <video
     id="vid1"
     class="video-js video-test"
-    data-setup='{ "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "https://www.youtube.com/watch?v=M3bvuAuPYH4"}] , "youtube": { "ytControls": 2 } }'
+    controls
+    data-setup='{ "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "https://www.youtube.com/watch?v=M3bvuAuPYH4"}] , "youtube": { "ytControls": 2 , "iv_load_policy": 3 , "modestbranding": 1 } }'
   >
   </video>
 

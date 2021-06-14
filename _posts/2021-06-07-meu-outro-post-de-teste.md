@@ -109,8 +109,8 @@ tags: [novo]
 <video
     id="vid1"
     class="video-js video-test"
-    controls="1"
-    data-setup='{ "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "https://www.youtube.com/watch?v=iVURZ3kN_qA"}] , "youtube": { "ytControls": 1 , "iv_load_policy": 3 , "modestbranding": 1 } }'
+    controls
+    data-setup='{ "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "https://www.youtube.com/watch?v=iVURZ3kN_qA"}] , "youtube": { "iv_load_policy": 3 , "modestbranding": 1 } }'
   >
   </video>
 

@@ -60,9 +60,9 @@ tags: [novo]
   <!--BODY-->
 
 <!--<div style="position: absolute; inset: 0px; margin: 1.5%;">-->
-<video class="video-js vjs-theme-city"
+<video
     id="my-video"
-    class="video-js"
+    class="video-js vjs-theme-city"
     controls
     preload="auto"
     width="640"

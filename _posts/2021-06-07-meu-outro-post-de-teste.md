@@ -67,10 +67,9 @@ tags: [novo]
   .video-test { width: 100%; height: auto;}
 </style>  
 
-<figure class="figure-test">
 <video
     id="my-video"
-    class="video-js vjs-theme-city"
+    class="video-js vjs-theme-city figure-test"
     controls
     preload="auto"
     poster="MY_VIDEO_POSTER.jpg"
@@ -86,7 +85,6 @@ tags: [novo]
       >
     </p>
   </video>
-</figure>
 <!--</div>-->
 
   <script src="https://vjs.zencdn.net/7.11.4/video.min.js"></script>

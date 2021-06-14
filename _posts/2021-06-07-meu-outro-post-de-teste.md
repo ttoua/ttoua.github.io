@@ -69,7 +69,7 @@ tags: [novo]
 
 <video
     id="my-video"
-    class="video-js vjs-theme-city figure-test"
+    class="video-js figure-test"
     controls
     preload="auto"
     poster="MY_VIDEO_POSTER.jpg"

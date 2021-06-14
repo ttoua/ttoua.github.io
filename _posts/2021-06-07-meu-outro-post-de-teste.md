@@ -121,7 +121,9 @@ tags: [novo]
 
 
   <script src="https://vjs.zencdn.net/7.11.4/video.min.js"></script>
-  <script src="https://raw.githubusercontent.com/videojs/videojs-youtube/master/dist/Youtube.min.js"></script>
+  <script src="/assets/js/youtube.js"></script>
+
+  <!--youtube -->
 
   <!--BODY-->
 

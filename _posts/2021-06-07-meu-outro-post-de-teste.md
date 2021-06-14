@@ -109,8 +109,6 @@ tags: [novo]
 <video
     id="vid1"
     class="video-js video-test"
-    controls
-    autoplay
     data-setup='{ "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "https://www.youtube.com/watch?v=M3bvuAuPYH4"}] , "youtube": { "ytControls": 2 } }'
   >
   </video>

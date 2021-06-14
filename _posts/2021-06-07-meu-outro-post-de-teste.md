@@ -110,7 +110,7 @@ tags: [novo]
     id="vid1"
     class="video-js video-test"
     controls
-    data-setup='{ "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "https://www.youtube.com/watch?v=M3bvuAuPYH4"}] , "youtube": { "Controls": 1 , "iv_load_policy": 3 , "modestbranding": 1 } }'
+    data-setup='{ "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "https://www.youtube.com/watch?v=M3bvuAuPYH4"}] , "youtube": { "controls": 0 , "iv_load_policy": 3 , "modestbranding": 1 } }'
   >
   </video>
 

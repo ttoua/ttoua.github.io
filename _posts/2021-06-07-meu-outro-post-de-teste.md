@@ -62,11 +62,26 @@ tags: [novo]
 <!--<div style="position: absolute; inset: 0px; margin: 1.5%;">-->
 
 <style>
-  .figure-test { width: 100% !important; height: auto !important;}
+  /*.figure-test { width: 100% !important; height: auto !important;}
   figcaption { font: 120% sans-serif; text-align: center;}
-  .video-test { width: 100%; height: auto;}
+  .video-test { width: 100%; height: auto;}*/
+
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+.videoWrapper video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
 </style>  
 
+<div class="videoWrapper">
 <video
     id="my-video"
     class="video-js figure-test"
@@ -85,6 +100,7 @@ tags: [novo]
       >
     </p>
   </video>
+</div>
 <!--</div>-->
 
   <script src="https://vjs.zencdn.net/7.11.4/video.min.js"></script>

@@ -58,8 +58,8 @@ tags: [novo]
     class="video-js"
     controls
     preload="auto"
-    width="640"
-    height="264"
+    width="800"
+    height="600"
     poster="MY_VIDEO_POSTER.jpg"
     data-setup="{}"
   >
@@ -75,7 +75,7 @@ tags: [novo]
   </video>
 
   <script src="https://vjs.zencdn.net/7.11.4/video.min.js"></script>
-  
+
   <!--BODY-->
 
  <!--END-VIDEOJS------------------------------------------------------->

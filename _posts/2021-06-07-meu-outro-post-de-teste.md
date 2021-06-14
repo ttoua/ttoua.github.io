@@ -60,13 +60,19 @@ tags: [novo]
   <!--BODY-->
 
 <!--<div style="position: absolute; inset: 0px; margin: 1.5%;">-->
+
+<style>
+  figure { width: 90%; min-width: 320px; margin:0 auto;}
+  figcaption { font: 120% sans-serif; text-align: center;}
+  video { width: 100%; height: auto;}
+</style>  
+
+<figure>
 <video
     id="my-video"
     class="video-js vjs-theme-city preview-player-dimensions"
     controls
     preload="auto"
-    width="640"
-    height="264"
     poster="MY_VIDEO_POSTER.jpg"
     data-setup="{}"
   >
@@ -80,6 +86,7 @@ tags: [novo]
       >
     </p>
   </video>
+</figure>
 <!--</div>-->
 
   <script src="https://vjs.zencdn.net/7.11.4/video.min.js"></script>

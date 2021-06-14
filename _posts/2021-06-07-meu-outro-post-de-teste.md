@@ -81,6 +81,7 @@ tags: [novo]
   width: 100%;
   height: 100%;
 }
+.vjs-big-play-button { top:44% !important; left:44% !important; }
 
 </style>  
 

@@ -62,7 +62,7 @@ tags: [novo]
 <!--<div style="position: absolute; inset: 0px; margin: 1.5%;">-->
 
 <style>
-  .figure-test { width: 100%; min-width: 320px; height: 500px; margin:0 auto;}
+  .figure-test { width: 100%; min-width: 320px; min-height: 320px; height: auto; margin:0 auto;}
   figcaption { font: 120% sans-serif; text-align: center;}
   .video-test { width: 100%; height: auto;}
 </style>  

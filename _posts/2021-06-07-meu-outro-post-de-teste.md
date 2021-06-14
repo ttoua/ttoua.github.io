@@ -87,8 +87,6 @@ tags: [novo]
     class="video-js figure-test"
     controls
     preload="auto"
-    width="560" 
-    height="315"
     poster="MY_VIDEO_POSTER.jpg"
     data-setup="{}"
   >

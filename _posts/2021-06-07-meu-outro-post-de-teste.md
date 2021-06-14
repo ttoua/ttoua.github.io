@@ -62,7 +62,7 @@ tags: [novo]
 <!--<div style="position: absolute; inset: 0px; margin: 1.5%;">-->
 <video
     id="my-video"
-    class="video-js vjs-theme-city"
+    class="video-js vjs-theme-city preview-player-dimensions"
     controls
     preload="auto"
     width="640"

@@ -46,6 +46,12 @@ tags: [novo]
   
   <link href="https://vjs.zencdn.net/7.11.4/video-js.css" rel="stylesheet" />
 
+  <!-- City -->
+  <link
+  href="https://unpkg.com/@videojs/themes@1/dist/city/index.css"
+  rel="stylesheet"
+  />
+
   <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
   <!-- <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script> -->
 
@@ -54,11 +60,13 @@ tags: [novo]
   <!--BODY-->
 
 <!--<div style="position: absolute; inset: 0px; margin: 1.5%;">-->
-<video style="margin: 0 auto;"
+<video class="video-js vjs-theme-city"
     id="my-video"
     class="video-js"
     controls
     preload="auto"
+    width="640"
+    height="264"
     poster="MY_VIDEO_POSTER.jpg"
     data-setup="{}"
   >

@@ -70,7 +70,7 @@ tags: [novo]
 <figure>
 <video
     id="my-video"
-    class="video-js vjs-theme-city preview-player-dimensions"
+    class="video-js vjs-theme-city"
     controls
     preload="auto"
     poster="MY_VIDEO_POSTER.jpg"

@@ -102,11 +102,23 @@ tags: [novo]
         >supports HTML5 video</a
       >
     </p>
+</video>
+</div>
+
+<div class="videoWrapper">
+<video
+    id="my-video"
+    class="video-js video-test"
+    controls
+    preload="auto"
+    poster="https://toua.cf/assets/img/favicons/android-chrome-512x512.png"
+    data-setup='{ "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "https://www.youtube.com/watch?v=PIb6AZdTr-A"}] }'
+  >
   </video>
 
-  <iframe class="video-js video-test" src="https://www.youtube.com/embed/PIb6AZdTr-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <!--<iframe class="video-js video-test" src="https://www.youtube.com/embed/PIb6AZdTr-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 </div>
-<!--</div>-->
+
 
   <script src="https://vjs.zencdn.net/7.11.4/video.min.js"></script>
 

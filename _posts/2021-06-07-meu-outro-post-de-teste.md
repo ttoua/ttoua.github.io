@@ -54,7 +54,7 @@ tags: [novo]
   <!--BODY-->
 
 <!--<div style="position: absolute; inset: 0px; margin: 1.5%;">-->
-<video
+<video style="margin: 0 auto;"
     id="my-video"
     class="video-js"
     controls

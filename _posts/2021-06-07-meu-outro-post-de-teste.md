@@ -71,12 +71,12 @@ tags: [novo]
   padding-bottom: 56.25%; /* 16:9 */
   height: 0;
 }
-.videoWrapper video iframe {
+.video-test {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
-  height: auto !important;
+  height: 100%;
 }
 
 </style>  
@@ -84,7 +84,7 @@ tags: [novo]
 <div class="videoWrapper">
 <video
     id="my-video"
-    class="video-js figure-test"
+    class="video-js video-test"
     controls
     preload="auto"
     poster="MY_VIDEO_POSTER.jpg"

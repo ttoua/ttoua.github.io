@@ -62,15 +62,15 @@ tags: [novo]
 <!--<div style="position: absolute; inset: 0px; margin: 1.5%;">-->
 
 <style>
-  figure { width: 90%; min-width: 320px; margin:0 auto;}
+  .figure-test { width: 90%; min-width: 320px; margin:0 auto;}
   figcaption { font: 120% sans-serif; text-align: center;}
-  video { width: 100%; height: auto;}
+  .video-test { width: 100%; height: auto;}
 </style>  
 
-<figure>
+<figure class="figure-test">
 <video
     id="my-video"
-    class="video-js vjs-theme-city"
+    class="video-js vjs-theme-city video-test"
     controls
     preload="auto"
     poster="MY_VIDEO_POSTER.jpg"

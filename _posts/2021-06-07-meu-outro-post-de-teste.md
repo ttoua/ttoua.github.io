@@ -53,7 +53,7 @@ tags: [novo]
 
   <!--BODY-->
 
-<div style="position: absolute; inset: 0px; margin: 1.5%;">
+<!--<div style="position: absolute; inset: 0px; margin: 1.5%;">-->
 <video
     id="my-video"
     class="video-js"
@@ -72,7 +72,7 @@ tags: [novo]
       >
     </p>
   </video>
-</div>
+<!--</div>-->
 
   <script src="https://vjs.zencdn.net/7.11.4/video.min.js"></script>
 

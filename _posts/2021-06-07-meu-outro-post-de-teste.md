@@ -111,7 +111,7 @@ tags: [novo]
     class="video-js video-test"
     controls
     autoplay
-    data-setup='{ "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "https://www.youtube.com/watch?v=KFq4E9XTueY"}] , "youtube": {"iv_load_policy": 1}}'
+    data-setup='{ "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "https://www.youtube.com/watch?v=KFq4E9XTueY"}] , "youtube": {"iv_load_policy": 1, "modestbranding": 1}}'
   >
   </video>
 

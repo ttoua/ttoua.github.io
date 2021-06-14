@@ -87,7 +87,7 @@ tags: [novo]
     class="video-js video-test"
     controls
     preload="auto"
-    poster="MY_VIDEO_POSTER.jpg"
+    poster="https://toua.cf/assets/img/favicons/android-chrome-512x512.png"
     data-setup="{}"
   >
     <source src="https://vjs.zencdn.net/v/oceans.mp4" type="video/mp4" />

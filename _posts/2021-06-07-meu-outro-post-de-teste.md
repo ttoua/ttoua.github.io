@@ -71,12 +71,12 @@ tags: [novo]
   padding-bottom: 56.25%; /* 16:9 */
   height: 0;
 }
-.videoWrapper video {
+.videoWrapper video iframe {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
-  height: 100%;
+  height: auto !important;
 }
 
 </style>  
@@ -87,6 +87,8 @@ tags: [novo]
     class="video-js figure-test"
     controls
     preload="auto"
+    width="560" 
+    height="315"
     poster="MY_VIDEO_POSTER.jpg"
     data-setup="{}"
   >

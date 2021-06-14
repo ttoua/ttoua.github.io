@@ -107,12 +107,12 @@ tags: [novo]
 
 <div class="videoWrapper">
 <video
-    id="my-video"
+    id="vid1"
     class="video-js video-test"
     controls
-    preload="auto"
+    autoplay
     poster="https://toua.cf/assets/img/favicons/android-chrome-512x512.png"
-    data-setup='{ "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "https://www.youtube.com/watch?v=PIb6AZdTr-A"}] }'
+    data-setup='{ "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "https://www.youtube.com/watch?v=PIb6AZdTr-A"}] , "youtube": {"iv_load_policy": 1}}'
   >
   </video>
 

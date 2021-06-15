@@ -108,15 +108,19 @@ tags: [novo]
 ---
 
 <div class="videoWrapper">
-<video
+  <video
     id="vid1"
     class="video-js video-test"
     controls
     data-setup='{ "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "https://www.youtube.com/watch?v=iVURZ3kN_qA"}] , "youtube": { "iv_load_policy": 3 , "modestbranding": 1 } }'
   >
   </video>
+</div>
 
-  <!--<iframe class="video-js video-test" src="https://www.youtube.com/embed/PIb6AZdTr-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+---
+
+<div class="videoWrapper">
+  <iframe class="video-test" src="https://www.youtube.com/embed/PIb6AZdTr-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

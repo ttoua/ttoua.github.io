@@ -123,6 +123,12 @@ tags: [novo]
   <iframe class="video-test" src="https://www.youtube.com/embed/PIb6AZdTr-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+---
+
+<div class="videoWrapper">
+  <iframe class="video-test" src="https://www.youtube.com/embed/J24iPnaOP8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
   <script src="https://vjs.zencdn.net/7.11.4/video.min.js"></script>
   <script src="/assets/js/dist/youtube.js"></script>

@@ -120,7 +120,7 @@ tags: [novo]
 ---
 
 <div class="videoWrapper">
-  <iframe class="video-test" src="https://www.youtube.com/embed/PIb6AZdTr-A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe class="video-test" src="https://www.youtube.com/embed/uC-bJnN_lcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ---
